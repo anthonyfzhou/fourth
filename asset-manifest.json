@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/fourth/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/fourth/static/js/main.a17e45f3.chunk.js",
-    "main.js.map": "/fourth/static/js/main.a17e45f3.chunk.js.map",
-    "runtime-main.js": "/fourth/static/js/runtime-main.acfc618a.js",
-    "runtime-main.js.map": "/fourth/static/js/runtime-main.acfc618a.js.map",
-    "static/js/2.3970bc55.chunk.js": "/fourth/static/js/2.3970bc55.chunk.js",
-    "static/js/2.3970bc55.chunk.js.map": "/fourth/static/js/2.3970bc55.chunk.js.map",
-    "static/js/3.f3e3b023.chunk.js": "/fourth/static/js/3.f3e3b023.chunk.js",
-    "static/js/3.f3e3b023.chunk.js.map": "/fourth/static/js/3.f3e3b023.chunk.js.map",
+    "main.css": "/fourth/static/css/main.c9e3edd3.chunk.css",
+    "main.js": "/fourth/static/js/main.42e97a06.chunk.js",
+    "main.js.map": "/fourth/static/js/main.42e97a06.chunk.js.map",
+    "runtime-main.js": "/fourth/static/js/runtime-main.a66eae0c.js",
+    "runtime-main.js.map": "/fourth/static/js/runtime-main.a66eae0c.js.map",
+    "static/js/2.a235bf33.chunk.js": "/fourth/static/js/2.a235bf33.chunk.js",
+    "static/js/2.a235bf33.chunk.js.map": "/fourth/static/js/2.a235bf33.chunk.js.map",
+    "static/js/3.be421d53.chunk.js": "/fourth/static/js/3.be421d53.chunk.js",
+    "static/js/3.be421d53.chunk.js.map": "/fourth/static/js/3.be421d53.chunk.js.map",
     "index.html": "/fourth/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/fourth/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3970bc55.chunk.js.LICENSE.txt": "/fourth/static/js/2.3970bc55.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fourth/static/media/logo.6ce24c58.svg"
+    "static/css/main.c9e3edd3.chunk.css.map": "/fourth/static/css/main.c9e3edd3.chunk.css.map",
+    "static/js/2.a235bf33.chunk.js.LICENSE.txt": "/fourth/static/js/2.a235bf33.chunk.js.LICENSE.txt",
+    "static/media/itsthesecondsong.png": "/fourth/static/media/itsthesecondsong.edea89df.png",
+    "static/media/logo.6ce24c58.svg": "/fourth/static/media/logo.6ce24c58.svg",
+    "static/media/thesepicturesaremymasterpiecesandlikevangoghigounrecognized.png": "/fourth/static/media/thesepicturesaremymasterpiecesandlikevangoghigounrecognized.82e57603.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.acfc618a.js",
-    "static/js/2.3970bc55.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a17e45f3.chunk.js"
+    "static/js/runtime-main.a66eae0c.js",
+    "static/js/2.a235bf33.chunk.js",
+    "static/css/main.c9e3edd3.chunk.css",
+    "static/js/main.42e97a06.chunk.js"
   ]
 }
